@@ -1,0 +1,92 @@
+name: SimpleColorChat
+version: 1.0
+main: org.altervista.javadevgioelex.simplecolorchat.Main
+author: Gioelex
+description: A simple way to color your server's chat
+
+commands:
+    colors:
+        usage: /<command>
+        description: It displays all minecraft colors.
+        permission: scc.colors
+        permission-message: You haven't permission to see color list!
+    black:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.black
+        permission-message: You haven't permission to write with this color!
+    dark_blue:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.dark_blue
+        permission-message: You haven't permission to write with this color!
+    dark_green:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.dark_green
+        permission-message: You haven't permission to write with this color!
+    dark_aqua:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.dark_aqua
+        permission-message: You haven't permission to write with this color!
+    dark_red:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.dark_red
+        permission-message: You haven't permission to write with this color!
+    dark_purple:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.dark_purple
+        permission-message: You haven't permission to write with this color!
+    gold:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.gold
+        permission-message: You haven't permission to write with this color!
+    gray:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.gray
+        permission-message: You haven't permission to write with this color!
+    dark_gray:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.dark_gray
+        permission-message: You haven't permission to write with this color!
+    blue:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.blue
+        permission-message: You haven't permission to write with this color!
+    green:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.green
+        permission-message: You haven't permission to write with this color!
+    aqua:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.aqua
+        permission-message: You haven't permission to write with this color!
+    red:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.red
+        permission-message: You haven't permission to write with this color!
+    light_purple:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.purple
+        permission-message: You haven't permission to write with this color!
+    yellow:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.yellow
+        permission-message: You haven't permission to write with this color!
+    white:
+        usage: /<command>
+        description: Doing this, you'll write in this color.
+        permission: scc.white
+        permission-message: You haven't permission to write with this color!
